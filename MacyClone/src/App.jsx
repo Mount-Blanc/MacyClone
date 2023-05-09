@@ -14,7 +14,7 @@ function App() {
         </form>
       </section>
       <section>category rail
-        <ul>
+        <ul className='category-link'>
           <li>Women</li>
           <li>Men</li>
           <li>Kids</li>
