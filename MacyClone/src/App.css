@@ -46,3 +46,7 @@
   border-radius: 67px;
   height:40px
 }
+.search-rail {
+  display: flex;
+  align-items: center;
+}
