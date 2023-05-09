@@ -7,11 +7,15 @@ function App() {
     <>
      <header>
       <section className='search-rail'>logo
+      <div className='search-container'>
         <form>
           <div>
             <input className='search-bar' placeholder='Search'/>
           </div>
         </form>
+        </div>
+        <div>wishlist</div>
+        <div>Cart</div>
       </section>
       <section>category rail
         <ul className='category-link'>

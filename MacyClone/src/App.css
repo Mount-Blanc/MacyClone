@@ -49,9 +49,13 @@
 .search-rail {
   display: flex;
   align-items: center;
+  justify-content: space-between;
 }
 .category-link{
  list-style-type: none;
  display: flex;
  font-weight:bold;
+}
+.search-container {
+  margin:0 auto
 }
