@@ -6,6 +6,7 @@ function App() {
   return (
     <>
      <header>
+      <div className='search-wrapper'>
       <section className='search-rail'>logo
       <div className='search-container'>
         <form>
@@ -36,7 +37,7 @@ function App() {
 
         </ul>
       </section>
-
+</div>
      </header>
     </>
   )
