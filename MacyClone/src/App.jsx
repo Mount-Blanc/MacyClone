@@ -41,6 +41,40 @@ function App() {
       <div className='header-seperator'></div>
 </div>
      </header>
+<div className='footer-container'>
+     <footer>footer
+      <div className='footer-row1'>
+        <div className='footer-row1-container'>
+          <div className='footer-column'>
+          <label>
+            <ul>
+              <h4>Customer Service</h4>
+              <li>
+                <a href=''>Contact Us</a>
+              </li>
+              <li>
+                <a href=''>FAQs</a>
+              </li> <li>
+                <a href=''>Klarna</a>
+              </li> <li>
+                <a href=''>Order Lookup</a>
+              </li> <li>
+                <a href=''>Para Ayuda</a>
+                <li>
+                <a href=''>Returns</a>
+              </li> <li>
+                <a href=''>Shipping & Delivery</a>
+              </li> <li>
+                <a href=''>United States</a>
+              </li>
+              </li>
+            </ul>
+          </label>
+          </div>
+          
+        </div>
+      </div>
+     </footer></div>
     </>
   )
 }

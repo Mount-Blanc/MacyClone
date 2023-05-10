@@ -34,3 +34,9 @@
   left: 0;
   position: absolute;
 }
+
+
+.footer-container {
+  background-color: rgba(0,0,0,.88);
+  color: white;
+}
