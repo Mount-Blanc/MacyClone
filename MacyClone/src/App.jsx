@@ -7,6 +7,7 @@ function App() {
     <>
      <header>
       <div className='heading-wrapper'>
+        <div className='header-seperator'></div>
       <section className='search-rail'>logo
       <div className='search-container'>
         <form>
@@ -37,6 +38,7 @@ function App() {
 
         </ul>
       </section>
+      <div className='header-seperator'></div>
 </div>
      </header>
     </>

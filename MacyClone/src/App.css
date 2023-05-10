@@ -26,3 +26,11 @@
 .heading-wrapper {
   padding: 0 80px;
 }
+.header-seperator {
+  content:"";
+  background-color: silver;
+  height: 1px;
+  width: 100%;
+  left: 0;
+  position: absolute;
+}
