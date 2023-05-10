@@ -1,9 +1,10 @@
 
 .search-bar {
-  width:100%;
+  width:621px;
   border-radius: 67px;
   height:40px;
   background-color: #f4f4f4;
+  outline: none;
 }
 .search-rail {
   display: flex;
@@ -22,6 +23,6 @@
 .search-container {
   margin:0 auto
 }
-.search-wrapper {
+.heading-wrapper {
   padding: 0 80px;
 }

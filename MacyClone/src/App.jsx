@@ -6,7 +6,7 @@ function App() {
   return (
     <>
      <header>
-      <div className='search-wrapper'>
+      <div className='heading-wrapper'>
       <section className='search-rail'>logo
       <div className='search-container'>
         <form>
@@ -18,7 +18,7 @@ function App() {
         <div>wishlist</div>
         <div>Cart</div>
       </section>
-      <section>category rail
+      <section>
         <ul className='category-link'>
           <li>Women</li>
           <li>Men</li>
