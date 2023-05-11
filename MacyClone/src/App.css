@@ -39,4 +39,10 @@
 .footer-container {
   background-color: rgba(0,0,0,.88);
   color: white;
+ 
+}
+.footer-container li a {
+  text-decoration: none;
+  color:white;
+  list-style-type: none;
 }

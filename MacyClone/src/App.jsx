@@ -42,7 +42,7 @@ function App() {
 </div>
      </header>
 <div className='footer-container'>
-     <footer>footer
+     <footer>
       <div className='footer-row1'>
         <div className='footer-row1-container'>
           <div className='footer-column'>
@@ -71,9 +71,86 @@ function App() {
             </ul>
           </label>
           </div>
+      
+          </div> <div className='footer-column'>
+          <label>
+            <ul>
+              <h4>Macy's Credit Card</h4>
+              <li>
+                <a href=''>Contact Us</a>
+              </li>
+              <li>
+                <a href=''>FAQs</a>
+              </li> <li>
+                <a href=''>Klarna</a>
+              </li> <li>
+                <a href=''>Order Lookup</a>
+              </li> <li>
+                <a href=''>Para Ayuda</a>
+                <li>
+                <a href=''>Returns</a>
+              </li> <li>
+                <a href=''>Shipping & Delivery</a>
+              </li> <li>
+                <a href=''>United States</a>
+              </li>
+              </li>
+            </ul>
+          </label>
+          </div> <div className='footer-column'>
+          <label>
+            <ul>
+              <h4>Stores & Services</h4>
+              <li>
+                <a href=''>Contact Us</a>
+              </li>
+              <li>
+                <a href=''>FAQs</a>
+              </li> <li>
+                <a href=''>Klarna</a>
+              </li> <li>
+                <a href=''>Order Lookup</a>
+              </li> <li>
+                <a href=''>Para Ayuda</a>
+                <li>
+                <a href=''>Returns</a>
+              </li> <li>
+                <a href=''>Shipping & Delivery</a>
+              </li> <li>
+                <a href=''>United States</a>
+              </li>
+              </li>
+            </ul>
+          </label>
+          </div>
+           <div className='footer-column'>
+          <label>
+            <ul>
+              <h4>Macy's Inc</h4>
+              <li>
+                <a href=''>Contact Us</a>
+              </li>
+              <li>
+                <a href=''>FAQs</a>
+              </li> <li>
+                <a href=''>Klarna</a>
+              </li> <li>
+                <a href=''>Order Lookup</a>
+              </li> <li>
+                <a href=''>Para Ayuda</a>
+                <li>
+                <a href=''>Returns</a>
+              </li> <li>
+                <a href=''>Shipping & Delivery</a>
+              </li> <li>
+                <a href=''>United States</a>
+              </li>
+              </li>
+            </ul>
+          </label>
+          </div>
+          </div>
           
-        </div>
-      </div>
      </footer></div>
     </>
   )
