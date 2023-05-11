@@ -149,7 +149,25 @@ function App() {
             </ul>
           </label>
           </div>
+          <div className='last-column'>
+            <div className='socials'>
+            <section>
+              <div>Be the first to know with our emails</div>
+              <div>If texts are more your style, we can send those too.</div>
+            </section>
+            <section>
+            <div class="title">Open A Macy's Card & Get 20% Off </div>
+            <p class="card-description">
+                             Today and tomorrow,* up to a total savings of $100 on your Macy's purchases over the 2 days. *Subject to credit approval.
+
+                            <a class="card-details link" href="https://www.macys.com/p/credit-service/learn-and-apply/?acquisitionOrigin=GlbNavFooterLnApply&amp;cm_sp=macys_account-_-macys_credit_card-_-apply_and_learn&amp;lid=glbbtmnav_apply_for_card-us&amp;cm_sp=navigation-_-bottom_nav-_-details&amp;lid=glbbtmnav_details-us" title="Macy's cart details">
+                                Details
+                            </a>
+                        </p>
+            </section>
           </div>
+          </div>
+      </div>
           
      </footer></div>
     </>
