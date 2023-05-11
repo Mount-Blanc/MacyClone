@@ -151,12 +151,12 @@ function App() {
           </div>
           <div className='last-column'>
             <div className='socials'>
-            <section>
-              <div>Be the first to know with our emails</div>
-              <div>If texts are more your style, we can send those too.</div>
+            <section className='border'>
+              <h4>Be the first to know with our emails</h4>
+              <p className='small'>If texts are more your style, we can send those too.</p>
             </section>
-            <section>
-            <div class="title">Open A Macy's Card & Get 20% Off </div>
+            <section className='border'> 
+            <h4>Open A Macy's Card & Get 20% Off </h4>
             <p class="card-description">
                              Today and tomorrow,* up to a total savings of $100 on your Macy's purchases over the 2 days. *Subject to credit approval.
 

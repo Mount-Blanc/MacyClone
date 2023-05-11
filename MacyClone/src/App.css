@@ -56,3 +56,10 @@ li {
 .last-column {
   width: 411px;
 }
+.small {
+  font-size:.75rem;
+  line-height: 1.125rem;
+}
+.border {
+  border-bottom: 1px solid #626369
+}
